@@ -18,3 +18,7 @@ struct property_managementApp: App {
         }
     }
 }
+
+
+
+
